@@ -1,0 +1,1 @@
+{"racks":[{"id":1,"item":{"name":"Lays","quantity":0,"price":10}},{"id":2,"item":{"name":"Kurkure","quantity":1,"price":25}}],"currencies":[{"count":0,"value":5},{"count":10,"value":10},{"count":5,"value":20}]}
